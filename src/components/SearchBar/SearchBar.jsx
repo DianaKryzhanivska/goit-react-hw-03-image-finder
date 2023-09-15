@@ -11,7 +11,6 @@ import {
 
 class SearchBar extends Component {
   state = {
-    searchName: '',
     inputValue: '',
   };
 
